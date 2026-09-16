@@ -1,4 +1,4 @@
 # freshness
 A test repo
 
-Update #1
+Update #2
